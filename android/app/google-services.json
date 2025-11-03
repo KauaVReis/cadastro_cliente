@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161881117391",
+    "project_id": "clientesflutter",
+    "storage_bucket": "clientesflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161881117391:android:442385c01d0a95ec719dba",
+        "android_client_info": {
+          "package_name": "com.example.cadastro_cliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesPnrw0BioF1r7JLYaWmiC8ovgannKGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
